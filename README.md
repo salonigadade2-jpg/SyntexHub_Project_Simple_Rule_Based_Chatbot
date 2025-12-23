@@ -89,7 +89,7 @@ Simple-Rule-Based-Chatbot/
 
 Step 1: Clone the Repository
 
-git clone https://github.com/your-username/Simple-Rule-Based-Chatbot.git
+https://github.com/salonigadade2-jpg/SyntexHub_Project_Simple_Rule_Based_Chatbot/edit/main/README.md
 
 Step 2: Navigate to Project Folder
 
