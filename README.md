@@ -40,9 +40,13 @@ This project was developed as part of an internship task to strengthen fundament
 ⚙️ Features
 
 ✔ Intent recognition (greetings, help, exit)
+
 ✔ Rule-based responses
+
 ✔ Small built-in knowledge base
+
 ✔ Interactive command-line interface
+
 ✔ Error-free execution in online & local environments
 
 🧠 How It Works
@@ -64,9 +68,7 @@ This project was developed as part of an internship task to strengthen fundament
 
 Language: Python
 
-Concepts:
-
-Conditional statements
+Concepts:Conditional statements
 
 Loops
 
@@ -78,36 +80,45 @@ String handling
 
 📂 Project Structure
 Simple-Rule-Based-Chatbot/
-│
+
 ├── chatbot.py
+
 ├── README.md
 
 ▶️ How to Run the Project
 
 Step 1: Clone the Repository
+
 git clone https://github.com/your-username/Simple-Rule-Based-Chatbot.git
 
 Step 2: Navigate to Project Folder
+
 cd Simple-Rule-Based-Chatbot
 
 Step 3: Run the Program
+
 python chatbot.py
 
 
 💻 Sample Output
 Simple Rule-Based Chatbot
+
 Type 'exit' to stop the conversation
 
 You: hi
+
 Bot: Hello! How can I help you?
 
 You: what is python
+
 Bot: Python is a popular programming language used in AI, ML, and web development.
 
 You: help
+
 Bot: You can ask me about Python, Machine Learning, or Internship.
 
 You: exit
+
 Bot: Goodbye! Have a nice day 👋
 
 🧪 Example Use Cases
